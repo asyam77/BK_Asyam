@@ -144,7 +144,7 @@
                     <a href="https://www.facebook.com/asyam.arhab/" class="block px-4 pt-0 pb-1 text-sm font-normal transition-colors ease-soft-in-out text-slate-500" target="_blank">Facebook</a>
                   </li>
                   <li class="nav-item">
-                    <a href="https://api.whatsapp.com/send/?phone=6289855913480&text&type=phone_number&app_absent=0" class="block px-4 pt-0 pb-1 pr-0 text-sm font-normal transition-colors ease-soft-in-out text-slate-500" target="_blank">WhatsApp</a>
+                    <a href="https://api.whatsapp.com/send/?phone=628985591348&text&type=phone_number&app_absent=0" class="block px-4 pt-0 pb-1 pr-0 text-sm font-normal transition-colors ease-soft-in-out text-slate-500" target="_blank">WhatsApp</a>
                   </li>
                 </ul>
               </div>
